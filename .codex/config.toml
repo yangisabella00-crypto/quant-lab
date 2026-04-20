@@ -1,5 +1,5 @@
 model = "gpt-5.4"
 model_verbosity = "low"
-approval_policy = "untrusted"
-sandbox_mode = "read-only"
+approval_policy = "on-request"
+sandbox_mode = "workspace-write"
 hide_agent_reasoning = true
