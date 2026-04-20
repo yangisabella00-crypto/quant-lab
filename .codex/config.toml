@@ -1,0 +1,5 @@
+model = "gpt-5.4"
+model_verbosity = "low"
+approval_policy = "untrusted"
+sandbox_mode = "read-only"
+hide_agent_reasoning = true
